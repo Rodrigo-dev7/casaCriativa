@@ -11,4 +11,4 @@ utilizando HTML, CSS e JavaScript
 
 **Obs:** **Nunjucks** é uma templating engine,
       uma forma de nós rendeziamos e manipularmos
-                **Html** com contéudo **Javascript** facilmente
+                **HTML** com contéudo **Javascript** facilmente
